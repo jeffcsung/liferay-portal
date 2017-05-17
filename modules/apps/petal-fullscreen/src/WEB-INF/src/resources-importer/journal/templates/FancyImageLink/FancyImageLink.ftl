@@ -12,7 +12,7 @@ Autocomplete is also available and can be invoked by typing "${".
                 <a href="${cur_image.link.getFriendlyUrl()}">
                     <div class="info-container">
                         <div class="info-container-text paragraph-div">${cur_image.text.getData()}</div>
-                        <div class="blue-button small-button">${cur_image.bluebuttontext.getData()}</div>
+                        <div class="colored-button small-button">${cur_image.bluebuttontext.getData()}</div>
                     </div>
                     <#assign themePath = getterUtil.getString(request['theme-display']['path-theme-images']) />
                     <img class="container-content" src="${themePath}/${cur_image.getData()}"/>
