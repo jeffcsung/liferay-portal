@@ -9,7 +9,7 @@ $bluish: #2A59DE;
 $gray: #737373;
 
 @import "portlet_decorator";
-@import "color_schemes/marx.css";
+@import "color_schemes/marx";
 
 @mixin fake-underline-default {
 	bottom: 0;

@@ -7,6 +7,15 @@
 	</compatibility>
 
 	<theme id="y" name="Petal Fullscreen">
+		<color-scheme id="01" name="Default">
+			<default-cs>true</default-cs>
+			<css-class>default</css-class>
+			<color-scheme-images-path>${images-path}/color_schemes/${css-class}</color-scheme-images-path>
+		</color-scheme>
+		<color-scheme id="02" name="Marx">
+			<css-class>marx</css-class>
+		</color-scheme>
+
 		<template-extension>ftl</template-extension>
 		<portlet-decorator id="borderless" name="Borderless">
 			<portlet-decorator-css-class>portlet-borderless</portlet-decorator-css-class>
@@ -15,14 +24,6 @@
 			<default-portlet-decorator>true</default-portlet-decorator>
 			<portlet-decorator-css-class>portlet-decorate</portlet-decorator-css-class>
 		</portlet-decorator>
-
-		<color-scheme id="01" name="Default">
-			<default-cs>true</default-cs>
-		<color-scheme-images-path>${images-path}/color_schemes/${css-class}</color-scheme-images-path>
-		</color-scheme>
-		<color-scheme id="02" name="Marx">
-			<css-class>marx</css-class>
-		</color-scheme>
 
 		<settings>
 			<setting configurable="true" key="banner-image" type="text" value="/o/petal-fullscreen/images/sean-afnan-217427.jpg" />
