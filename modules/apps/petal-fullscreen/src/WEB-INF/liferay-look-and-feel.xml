@@ -15,6 +15,60 @@
 		<color-scheme id="02" name="Marx">
 			<css-class>marx</css-class>
 		</color-scheme>
+		<color-scheme id="03" name="Theme 03">
+			<css-class>Theme03</css-class>
+		</color-scheme>
+		<color-scheme id="04" name="Theme 04">
+			<css-class>Theme04</css-class>
+		</color-scheme>
+		<color-scheme id="05" name="Theme 05">
+			<css-class>Theme05</css-class>
+		</color-scheme>
+		<color-scheme id="06" name="Theme 06">
+			<css-class>Theme06</css-class>
+		</color-scheme>
+		<color-scheme id="07" name="Theme 07">
+			<css-class>Theme07</css-class>
+		</color-scheme>
+		<color-scheme id="08" name="Theme 08">
+			<css-class>Theme08</css-class>
+		</color-scheme>
+		<color-scheme id="09" name="Theme 09">
+			<css-class>Theme09</css-class>
+		</color-scheme>
+		<color-scheme id="10" name="Theme 10">
+			<css-class>Theme10</css-class>
+		</color-scheme>
+		<color-scheme id="11" name="Theme 11">
+			<css-class>Theme11</css-class>
+		</color-scheme>
+		<color-scheme id="12" name="Theme 12">
+			<css-class>Theme12</css-class>
+		</color-scheme>
+		<color-scheme id="13" name="Theme 13">
+			<css-class>Theme13</css-class>
+		</color-scheme>
+		<color-scheme id="14" name="Theme 14">
+			<css-class>Theme14</css-class>
+		</color-scheme>
+		<color-scheme id="15" name="Theme 15">
+			<css-class>Theme15</css-class>
+		</color-scheme>
+		<color-scheme id="16" name="Theme 16">
+			<css-class>Theme16</css-class>
+		</color-scheme>
+		<color-scheme id="17" name="Theme 17">
+			<css-class>Theme17</css-class>
+		</color-scheme>
+		<color-scheme id="18" name="Theme 18">
+			<css-class>Theme18</css-class>
+		</color-scheme>
+		<color-scheme id="19" name="Theme 19">
+			<css-class>Theme19</css-class>
+		</color-scheme>
+		<color-scheme id="20" name="Theme 20">
+			<css-class>Theme20</css-class>
+		</color-scheme>
 
 		<template-extension>ftl</template-extension>
 		<portlet-decorator id="borderless" name="Borderless">
